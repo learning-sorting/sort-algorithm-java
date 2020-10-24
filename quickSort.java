@@ -1,8 +1,4 @@
-
-edit
-play_arrow
-
-brightness_4
+//By Prem Mishra
 // Java program for implementation of QuickSort 
 class QuickSort 
 { 
