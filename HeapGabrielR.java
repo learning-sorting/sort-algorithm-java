@@ -1,4 +1,4 @@
-public class Heap{
+public class HeapGabrielR{
 
 	private int [] heap;
 	private int [] heapSorted;
